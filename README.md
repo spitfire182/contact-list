@@ -1,6 +1,8 @@
 Live version:
 [https://contacts-list-pyrtzofmcs.now.sh/](https://contacts-list-pyrtzofmcs.now.sh/)
 
+It might take up to a minute to load.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
